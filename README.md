@@ -1,2 +1,2 @@
 # MiPrimerRepositorio
-Para proyecto intermodular
+Este es mi primer repositorio 
